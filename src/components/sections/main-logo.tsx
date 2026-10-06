@@ -11,7 +11,7 @@ const MainLogo = () => {
       <img 
         src="https://i.imgur.com/zokTfzU.png" 
         alt="Bath & Body Works Logo" 
-        className="h-10 sm:h-25 w-25 object-contain transition-all duration-700 hover:brightness-110"
+        className="h-13 sm:h-28 w-28 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
