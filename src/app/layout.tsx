@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   description: "Participate in the Lowes Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/sz4EBf3.png", type: "image/png" },
+      { url: "https://i.imgur.com/MNrezFW.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/sz4EBf3.png",
+    shortcut: "https://i.imgur.com/MNrezFW.png",
     apple: [
-      { url: "https://i.imgur.com/sz4EBf3.png", sizes: "180x180", type: "image/png" },
+      { url: "https://i.imgur.com/MNrezFW.png", sizes: "180x180", type: "image/png" },
     ],
     other: [
       {
